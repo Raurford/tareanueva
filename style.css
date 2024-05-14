@@ -395,10 +395,3 @@ footer button.show{
 
 
 }
-}
-
-/* Estilos para dispositivos con ancho máximo de 600px */
-@media only screen and (max-width: 600px) {
-    header, nav, main, footer {
-        padding: 10px;
-    }
